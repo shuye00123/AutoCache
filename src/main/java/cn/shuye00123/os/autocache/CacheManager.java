@@ -35,5 +35,5 @@ public class CacheManager implements ApplicationContextAware {
         return cacheMethods;
     }
 
-    
+
 }
